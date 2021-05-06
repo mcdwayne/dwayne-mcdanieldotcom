@@ -98,11 +98,12 @@ category = "categories"
 series = "series"
 tag = "tags"
 author = "authors"
+
 [[params.social]]
 name = "GitKraken"
 icon = "fa fa-briefcase"
 weight = 1
-url = "https://github.com/mcdwayne/"
+url = "https://gitkraken.com"
 
 [[params.social]]
 name = "Github"
