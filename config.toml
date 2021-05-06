@@ -1,4 +1,4 @@
-baseURL = "http://dwayne-mcdaniel.com"
+baseURL = "dwayne-mcdaniel.com"
 title = "Dwayne McDaniel"
 theme = "hugo-coder"
 languageCode = "en"
