@@ -15,7 +15,7 @@ enableEmoji = true
 author = "Dwayne McDaniel"
 description = "Dwayne McDaniel's personal website"
 keywords = "developer,advocate,blog,personal"
-info = "GitKraken Developer Advocate and fan of all things knit and crochet"
+info = "Developer Advocate at GitGuardian.com and fan of all things knit and crochet"
 avatarURL = "images/dwayne-headshot.jpg"
 #gravatar = "1dwayne.mcdaniel@gmail.com"
 footerContent = "Thanks for coming by.  I am most active on Insta and Twitter"
@@ -100,10 +100,10 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
-name = "GitKraken"
+name = "GitGuardian"
 icon = "fa fa-briefcase"
 weight = 1
-url = "https://gitkraken.com"
+url = "https://gitguardian.com"
 
 [[params.social]]
 name = "Github"
